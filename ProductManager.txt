@@ -1,6 +1,6 @@
 The ideal candidate should have a passion for all things digital and is able to balance the user interests with business requirements. This role is perfect for a high-energy, creative, and ambitious person who thrives in a collaborative, fast paced environment, and wants to make a large impact. The Product Manager will report directly into the Director of Product Management.
 
-Responsibilities:   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Responsibilities:   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!..
 
 Manage the testing/enhancement roadmaps and testing tools (like Optimizely) across managed products
 Collaborate with cross-departmental teams to identify, develop and execute on UI/UX optimizations and new features
